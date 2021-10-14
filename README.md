@@ -1,1 +1,1 @@
-# vae
+# Variational Autoencoders
